@@ -1,0 +1,9 @@
+xin/desertcamel/ssm/controller/UserController.class
+xin/desertcamel/ssm/bean/User.class
+xin/desertcamel/ssm/serviceImpl/UserServiceImpl.class
+xin/desertcamel/ssm/dao/UserMapper.class
+xin/desertcamel/ssm/bean/UserExample$GeneratedCriteria.class
+xin/desertcamel/ssm/bean/UserExample$Criteria.class
+xin/desertcamel/ssm/service/UserService.class
+xin/desertcamel/ssm/bean/UserExample$Criterion.class
+xin/desertcamel/ssm/bean/UserExample.class
